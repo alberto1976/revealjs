@@ -1,1 +1,5 @@
-revealjs::revealjs_presentation
+revealjs::revealjs_presentation:
+  lib_dir: libs
+  theme: sky
+  highlight: pygments
+  center: true
